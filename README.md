@@ -118,7 +118,7 @@ Coming Soon!!
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganavijayaram&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ganavijayaram" height="192px"/>
   <br/>
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ganavijayaram's Github Stats" src=""https://github-readme-streak-stats.herokuapp.com/?user=varsharamesh82&&theme=algolia" height="192px"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganavijayaram&show_icons=true&locale=en&theme=algolia" alt="ganavijayaram" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
