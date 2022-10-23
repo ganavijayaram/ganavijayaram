@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello,+World!!!!;It's+Ganavi+Jayaram!;I'm+a+Learning+Developer...)
 
 ## About Me
-Coming Soon!!
+Code Coding Coded.
 
 ## 🛠️ My Skills
 ###  Programming languages
