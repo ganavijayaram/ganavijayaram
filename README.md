@@ -20,77 +20,122 @@ Here are some ideas to get you started:
 Code Coding Coded.
 
 ## 🛠️ My Skills
-###  Programming languages
+###  Programming languages and Frameworks
 
 <p align="center"> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <code> <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
+    <code> <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   </a>
-  &emsp;
-   <code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </code>
-  &emsp;
+ &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <code> <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
+    <code> <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   </a>
+  &emsp;
+   <code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </code>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <code><img  alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></code>
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <code> <img  alt="Javascript" src ='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg'></code>
+     <code> <img  alt="Javascript" src ='https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg'></code>
+   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <code> <img  alt="Typescript" src ='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg'></code>
    </a>
    &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <code> <img alt="Php" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code>
+   <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  </a> 
+   &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="Flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  </a> 
    
   
 </p>
 
-### Frontend Development
+### Web Techonologies
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <code><img alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+   <code><img alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-   <code><img alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+   <code><img alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   </a> 
+&emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-   <code><img alt="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+   <code><img alt="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   </a> 
+ &emsp;
+ <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  </a> 
+ &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="Node" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  </a> 
+ &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="Express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  </a> 
+  &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+  </a> 
+
+  
+
 </p>
 
- ### Software & Tools
  
-<p align="center">
-  &emsp;
-    <code><a href="#"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-  &emsp;
-    <code><a href="#"><img height="80" width="80" alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a></code>
-  &emsp;
-    <code><a href="#"><img alt="Stack Overflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"></a></code>
-   &emsp;
-    <code><a href="#"><img alt="Atom" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" /></a></code>
-   &emsp;
-    <code><a href="#"><img alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /></a></code>
-</p>
-
-
 
 ### Databases
 <p align="center"> 
+ &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <code><img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <code><img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-  </a>   
+  </a>  
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
    <code><img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
   </a> 
+ &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="mongo" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  </a> 
+ &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+   <code><img alt="redis" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  </a> 
 </p>
+
+ ### Cloud and DevOps
+ 
+<p align="center">
+  &emsp;
+    <code><a href="#"><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+  &emsp;
+    <code><a href="#"><img alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+   &emsp;
+    <code><a href="#"><img alt="GCP" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
+&emsp;
+    <code><a href="#"><img alt="Docker"src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+	&emsp;
+    <code><a href="#"><img alt="Kubernetes"src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+ &emsp;
+    <code><a href="#"><img alt="Git"src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+	&emsp;
+    <code><a href="#"><img alt="Jenkins"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+</p>p	
 
  ### Operating Systems
  
@@ -100,9 +145,10 @@ Code Coding Coded.
   &emsp;
     <code><a href="#"><img alt="Ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
   &emsp;
-    <code><a href="#"><img alt="CentosOS"src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg"></a></code>
+    <code><a href="#"><img alt="CentosOS"src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></a></code>
 </p>
 
+ 
 <br/>
 
 ## 📊 Github Stats
